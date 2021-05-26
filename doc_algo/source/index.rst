@@ -25,6 +25,8 @@ Welcome to algo's documentation!
    algo-13-字典树
 
    cyc-algo-01-双指针
+
+   algo-intro
    
 
 Indices and tables

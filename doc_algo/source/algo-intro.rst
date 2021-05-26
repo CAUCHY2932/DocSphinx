@@ -1,0 +1,89 @@
+
+算法导引
+*********************
+
+题目列表
+================
+
+.. csv-table:: 算法刷题列表
+    :header: class,no,done,link
+    :widths: 15, 15, 15, 250
+
+    单调栈,84,y,https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+    ,739,y,https://leetcode-cn.com/problems/daily-temperatures/
+    ,503,,https://leetcode-cn.com/problems/next-greater-element-ii/
+    ,85,,https://leetcode-cn.com/problems/maximal-rectangle/
+    ,42,,https://leetcode-cn.com/problems/trapping-rain-water/
+    ,901,,https://leetcode-cn.com/problems/online-stock-span/
+    ,239,,https://leetcode-cn.com/problems/sliding-window-maximum
+    ,962,,https://leetcode-cn.com/problems/maximum-width-ramp
+    并查集,547,,https://leetcode-cn.com/problems/number-of-provinces/
+    ,684,,https://leetcode-cn.com/problems/redundant-connection
+    ,200,,https://leetcode-cn.com/problems/number-of-islands
+    ,737,,会员
+    ,1102,,会员
+    ,1135,,会员
+    ,261,,会员
+    ,1061,,会员
+    ,323,,会员
+    ,924,,https://leetcode-cn.com/problems/minimize-malware-spread
+    滑动窗口,1208,,https://leetcode-cn.com/problems/get-equal-substrings-within-budget
+    ,209,,https://leetcode-cn.com/problems/minimum-size-subarray-sum
+    ,3,,https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
+    ,1004,y,https://leetcode-cn.com/problems/max-consecutive-ones-iii
+    ,340,,会员
+    ,1151,,会员
+    ,159,,会员
+    ,1100,,会员
+    前缀和与hash,560,y,https://leetcode-cn.com/problems/subarray-sum-equals-k
+    ,974,y,https://leetcode-cn.com/problems/subarray-sums-divisible-by-k
+    差分,1094,,https://leetcode-cn.com/problems/car-pooling
+    ,1109,y,https://leetcode-cn.com/problems/corporate-flight-bookings
+    ,121,y,https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
+    ,122,y,https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii
+    ,253,,会员
+    拓扑排序,210,,https://leetcode-cn.com/problems/course-schedule-ii
+    ,444,,会员
+    ,269,,会员
+    字符串,5,,https://leetcode-cn.com/problems/longest-palindromic-substring
+    ,93,,https://leetcode-cn.com/problems/restore-ip-addresses
+    ,43,,https://leetcode-cn.com/problems/multiply-strings
+    ,227,,https://leetcode-cn.com/problems/basic-calculator-ii
+    二分查找,240,,https://leetcode-cn.com/problems/search-a-2d-matrix-ii
+    ,4,,https://leetcode-cn.com/problems/median-of-two-sorted-arrays
+    ,33,,https://leetcode-cn.com/problems/search-in-rotated-sorted-array
+    BFS,127,,https://leetcode-cn.com/problems/word-ladder
+    ,139,,https://leetcode-cn.com/problems/word-break
+    ,130,,https://leetcode-cn.com/problems/surrounded-regions
+    ,317,,会员
+    ,505,,会员
+    ,529,,https://leetcode-cn.com/problems/minesweeper
+    ,1263,,https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location
+    ,1197,,会员
+    ,815,,https://leetcode-cn.com/problems/bus-routes
+    ,934,,https://leetcode-cn.com/problems/shortest-bridge
+    DFS,934,,https://leetcode-cn.com/problems/shortest-bridge
+    ,1102,,会员
+    ,685,,https://leetcode-cn.com/problems/redundant-connection-ii
+    ,531,,会员
+    ,533,,会员
+    ,332,,https://leetcode-cn.com/problems/reconstruct-itinerary/
+    ,337,,https://leetcode-cn.com/problems/house-robber-iii
+    ,113,,https://leetcode-cn.com/problems/path-sum-ii
+    动态规划,213,,https://leetcode-cn.com/problems/house-robber-ii
+    ,361,,会员
+    ,1066,,会员
+    ,750,,会员
+    ,1230,,会员
+    ,1055,,会员
+    贪心算法,452,,https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons
+    ,1231,,会员
+    ,1247,,https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal
+    ,45,,https://leetcode-cn.com/problems/jump-game-ii
+    ,621,,https://leetcode-cn.com/problems/task-scheduler
+    ,376,,https://leetcode-cn.com/problems/wiggle-subsequence
+    字典树,820,,https://leetcode-cn.com/problems/short-encoding-of-words/
+    ,1231,,会员
+    ,648,,https://leetcode-cn.com/problems/replace-words
+    ,208,,https://leetcode-cn.com/problems/implement-trie-prefix-tree
+
