@@ -23,6 +23,8 @@ Welcome to language's documentation!
    c-05-datacontainer
    c-06-file-io
    c-07-ds
+
+   c-wengkai-09-pointer
    
    py-01-project
    py-02-sourcefile
