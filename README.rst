@@ -67,4 +67,39 @@ ___________________
     pip install sphinx sphinx-autobuild
 
 
+branch
+-------------------
+
+multi repo opr::
+
+    ➜  DocSphinx git:(main) git remote -v
+    origin	git@github.com:CAUCHY2932/DocSphinx.git (fetch)
+    origin	git@github.com:CAUCHY2932/DocSphinx.git (push)
+
+
+    git remote add mirror https://gitee.com/aaron2932/DocSphinx.git
+
+    ➜  DocSphinx git:(main) git remote -v
+    mirror	https://gitee.com/aaron2932/DocSphinx.git (fetch)
+    mirror	https://gitee.com/aaron2932/DocSphinx.git (push)
+    origin	git@github.com:CAUCHY2932/DocSphinx.git (fetch)
+    origin	git@github.com:CAUCHY2932/DocSphinx.git (push)
+
+    ➜  DocSphinx git:(main) ✗ git add -u
+    ➜  DocSphinx git:(main) ✗ git commit -m "feat: add gitee and github"
+    [main e101d58] feat: add gitee and github
+     1 file changed, 19 insertions(+)
+    ➜  DocSphinx git:(main) git push mirror
+    Username for 'https://gitee.com': aaron2932
+    Password for 'https://aaron2932@gitee.com':
+    Counting objects: 3, done.
+    Delta compression using up to 4 threads.
+    Compressing objects: 100% (3/3), done.
+    Writing objects: 100% (3/3), 477 bytes | 477.00 KiB/s, done.
+    Total 3 (delta 2), reused 0 (delta 0)
+    remote: Powered by GITEE.COM [GNK-5.0]
+    To https://gitee.com/aaron2932/DocSphinx.git
+       c506643..e101d58  main -> main
+    ➜  DocSphinx git:(main)
+
 
